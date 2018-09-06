@@ -4,7 +4,7 @@
                 "name":"tim",
                 "data": [
                     {"id":"hariririski.html","name":"Hariririski","foto":"images/tim/hariririski.png","skill":"Developer"},
-                    {"id":"yusran.html","name":"Teuku Yusransyah Tandi","foto":"images/tim/hariririski.png","skill":"Developer"},
+                    {"id":"yusran.html","name":"Teuku Yusransyah Tandi","foto":"images/tim/yusran.jpg","skill":"Developer"},
                     {"id":"surya.html","name":"Surya Darma Putra","foto":"images/tim/surya.jpg","skill":"Developer"}
                 ]
             }
